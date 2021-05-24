@@ -1,19 +1,9 @@
-#toying with Tkinter
+# Projects to learn Tkinter
 
-*I have some experience with __Pygame__, but I would like to look at how __Tkinter__ works.*
+## multiply matrices
 
-This is what I hope to learn:
-* Opening a window
-* Displaying text on screen
-* Rendering simple shapes
-* Rendering Images
-* Making the window interactive
-    * Keyboard
-    * Mouse
-* Change how the window is displayed
 
-This is what I learned so far:
-1. Opening a window
-1. Display plain text on screen
-1. Change how the window is displayed
-
+```bash
+python3 multiply_matrices
+```
+Typing this command will prompt you to enter the dimensions of the matrices, then it will open a window for you to fill in the numbers from the matrice. When you click on the *Button*, the answer will be shown.
